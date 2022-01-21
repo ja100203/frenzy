@@ -1,0 +1,2 @@
+# frenzy
+THIS IS MY PERSONAL WEBSITE
